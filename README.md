@@ -10,9 +10,10 @@
 - Nome
 - Tipo
 
-Para a obter as informações de nome e tipo do Pokémon usou-se a API "PokéAPI", para a imagem de cada um foi usada originamente a API deste link "https://pokeres.bastionbot.org". Como o link foi desativado após a publicação do projeto, foi necessário substitui-lo por: 
+Para a obter as informações de nome e tipo do Pokémon usou-se a API "PokéAPI", para a imagem de cada um foi usada originamente a API deste link "https://pokeres.bastionbot.org". Como o link foi desativado após a publicação do projeto, o site não carrega completamente.  Por isso, é necessário substituir o link por esta [opção](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${id}.png).
 
-Cada Pokémon é mostrado em um card na tela, esse card tem sua cor de fundo definida pelo tipo de Pokémon que exibe, por ex., Pokémons de tipo "water" tem a cor azul no fundo do card, enquanto os de tipo "poison" são na cor verde.
+
+Cada Pokémon é mostrado em um card na tela, esse card tem sua cor de fundo definida pelo tipo de Pokémon que exibe, por exemplo, Pokémons de tipo "water" tem a cor azul no fundo do card, enquanto os de tipo "poison" são na cor verde.
 
 ## :computer: Tecnologias usadas:
 
