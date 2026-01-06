@@ -5,7 +5,7 @@
 
 ## :rocket: Sobre o projeto
 
-É o projeto de site que funciona como uma pokédex e exibe as seguintes informações sobre 150 Pokémons diferentes:
+É o projeto de site que funciona como uma POKÉDEX e exibe as seguintes informações sobre 150 Pokémons diferentes:
 - Imagem
 - Nome
 - Tipo
